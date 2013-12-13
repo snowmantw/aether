@@ -1,0 +1,11 @@
+{
+  "author": "Greg Weng <gweng@mozilla.com>",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "name": "aether",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowmantw/aether.git"
+  }
+}
