@@ -1,1 +1,5 @@
+.DS_Store
 node_modules
+legacy
+reference
+npm-debug.log
